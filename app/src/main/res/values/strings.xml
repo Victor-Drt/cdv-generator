@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessCardShare</string>
+    <string name="text_cdv_generator">CDV Generator</string>
+    <string name="cd_fab_add">Botão de adicionar cartão</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_hint_name">Nome</string>
+    <string name="label_hint_telefone">Telefone</string>
+    <string name="label_hint_email">E-mail</string>
+    <string name="label_hint_empresa">Empresa</string>
+    <string name="label_hint_cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+</resources>
